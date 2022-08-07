@@ -1,6 +1,7 @@
 #include<iostream>
 #include<queue>
-using namespace std;int main(){
+using namespace std;
+int main(){
     queue<int> Q;
     priority_queue<int> max_PQ; //max by default
     priority_queue<int ,vector<int>,greater<int> >min_PQ;

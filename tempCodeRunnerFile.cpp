@@ -1,3 +1,1 @@
-/* RAYUSHKA SUD CSE 3 2193191
-Telephone directory
-*/
+   // int row = row >= n ? ((2 * n - i) - 1) : rows;
